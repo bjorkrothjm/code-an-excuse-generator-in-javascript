@@ -1,3 +1,4 @@
 /* eslint-disable */
-import "bootstrap";
-import "./style.css";
+
+//import "bootstrap";
+//import "./style.css";
